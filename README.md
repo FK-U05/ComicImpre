@@ -1,4 +1,4 @@
- # サイト名 ComicImpre
+ # サイト名 < ComicImpre >
 
 ## サイト概要
 ### サイトテーマ
