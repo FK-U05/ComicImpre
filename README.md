@@ -1,4 +1,4 @@
-# <ComicImpre>
+## <ComicImpre>
 
 ## サイト概要
 ### サイトテーマ
